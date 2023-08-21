@@ -16,7 +16,7 @@ int main(){
             if(max<array[k])
             max=array[k];
         }
-        cout<<"case "<<i<<":"<<max<<endl;
+        cout<<"Case "<<i+1<<": "<<max<<endl;
     }
 
 }
